@@ -10,4 +10,4 @@ Installation
 3. Select the folder where you cloned or extracted the repository.
 4. Once the project is added to Unity Hub, click on it to open the project in Unity.
 
-git clone https://github.com/tanmay710-rgb/unity-game.git
+git clone https://github.com/tanmay710-rgb/Cubiko.git
