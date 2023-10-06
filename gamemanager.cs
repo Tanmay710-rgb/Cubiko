@@ -29,7 +29,6 @@ public class gamemanager : MonoBehaviour
 
     public void OnPause()
     {
-        //pai=use panel.setActive(true)
         pausePanel.SetActive(true);
         Time.timeScale = 0;
 
