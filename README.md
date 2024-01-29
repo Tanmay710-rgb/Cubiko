@@ -6,6 +6,7 @@ This is a single-player 3D game featuring a box character under the player's con
 
 ## Playing Criteria
 -> If the player falls off the plane or collides with any obstacle before reaching the finish line, level instantly restarts.
+
 -> If the player reaches the finish line he/she will advances to the next level.
 
 Installation
