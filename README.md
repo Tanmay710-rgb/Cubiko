@@ -4,7 +4,7 @@ This repository contains a basic game developed in Unity.
 
 This is a single-player 3D game featuring a box character under the player's control, set against a backdrop of numerous box obstacles scattered across an endless plane. The objective is to navigate the character through these obstacles.
 
-Enhancing your engagement are supplementary features, including a real-time scoreboard to monitor your progress and a versatile Play/Pause button
+To enhance the engagement supplementary features, including a real-time scoreboard to monitor your progress and a versatile Play/Pause button are added.
 
 ## Playing Criteria
 -> If the player falls off the plane or collides with any obstacle before reaching the finish line, level instantly restarts.
